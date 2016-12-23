@@ -1,0 +1,16 @@
+{
+  "name": "opsway/mage2-module-awesome",
+  "description": "A Magento 2 demo module",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": "BSD-4",
+  "require": {
+    "php": "^5.6 | ^7.0"
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "OpsWay\\Awesome\\": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+composer.phar
+/vendor/
+.idea/
+pub/media/
+pub/static/
+var/
+*.iws
+/out/
+.idea_modules/
