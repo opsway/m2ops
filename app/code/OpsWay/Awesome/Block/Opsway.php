@@ -6,6 +6,6 @@ class Opsway extends \Magento\Framework\View\Element\Template
 {
     public function getHelloWorldTxt()
     {
-        return 'Dear client! You can get awesome project with us!';
+        return 'Dear client! You can get awesome project with us! Just pay a money!';
     }
 }
